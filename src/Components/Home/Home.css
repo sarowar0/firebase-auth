@@ -1,0 +1,10 @@
+.Home{
+    text-align: center;
+}
+.form{
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
